@@ -22,6 +22,7 @@ Fall 2021 | last [BART fleet of the future](https://www.bart.gov/about/projects/
 2021 | first [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) | lighter, more reliable trains |
 2022 | [CA HSR](http://www.hsr.ca.gov/) Initial Operating Segment | Merced to Burbank | [timeline](https://en.wikipedia.org/wiki/California_High-Speed_Rail#Completion_timeline)
 2025 | [San Jose BART](http://www.vta.org/bart/stationsphaseII) | 16 mile, 3 station extension | [timeline](http://www.vta.org/bart/timeline)
+2026 | [Livermore BART extension](https://www.bart.gov/about/projects/liv) | 4.8 mile, 1 station extension |
 2027 | [CA HSR](http://www.hsr.ca.gov/) Bay to Basin | San Jose to Burbank | [timeline](https://en.wikipedia.org/wiki/California_High-Speed_Rail#Completion_timeline)
 2027 | last [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) | lighter, more reliable trains |
 2029 | [CA HSR](http://www.hsr.ca.gov/) Phase 1 Blended | San Francisco to Los Angeles | [timeline](https://en.wikipedia.org/wiki/California_High-Speed_Rail#Completion_timeline)
