@@ -17,6 +17,7 @@ winter 2017 | [AC Transit BRT](http://brt.actransit.org/) | dedicated lanes impr
 2018 | [CA HSR](http://www.hsr.ca.gov/) Initial Construction Segment | Merced to Bakersfield | [timeline](https://en.wikipedia.org/wiki/California_High-Speed_Rail#Completion_timeline)
 May 2018 | [eBART](https://www.bart.gov/about/projects/ecc) | 10 mile, 2 station extension to Antioch |
 2018 | [ACE to Modesto](http://www.acerail.com/About/Public-Projects/ACEforward) | 19 mile, 3 station extension | [booklet](http://www.acerail.com/About/Public-Projects/ACEforward/ACEforward_July2015-email-web.pdf)
+2018 | [Capitol Corridor to Salinas](http://www.tamcmonterey.org/wp-content/uploads/2015/09/Kick-Start-rail-extension-flyer10-13-14.pdf) | 68 mile, 7 station extension |
 2019 | [Central Subway](http://www.centralsubwaysf.com/content/project-overview) | extension of MUNI Metro into Chinatown | |
 2020 | [Caltrain electrification](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html) | faster and more frequent service |
 end of 2020 | [Geary BRT](http://www.sfcta.org/delivering-transportation-projects/geary-corridor-bus-rapid-transit-home) | dedicated lanes improve speed and reliability |
