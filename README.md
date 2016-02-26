@@ -12,7 +12,7 @@ late 2016 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [update
 mid 2017 | first [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 Oct 2017 | [Transbay Terminal](http://transbaycenter.org/) | improved bus terminal and connectivity | [schedule](http://www.sfcta.org/delivering-transportation-projects/transbay-transit-center-and-caltrain-downtown-extension)
 winter 2017 | [AC Transit BRT](http://brt.actransit.org/) | dedicated lanes improve speed and reliability | [schedule](http://brt.actransit.org/construction/updates-and-upgrades/)
-2018 | [Milpitas and Berryessa BART extension](http://www.vta.org/bart/overview) | 10-mile, two station extension| [timeline](http://www.vta.org/bart/timeline)
+2017 | [Milpitas and Berryessa BART extension](http://www.vta.org/bart/stations) | 10-mile, two station extension | [timeline](http://www.vta.org/bart/timeline)
 2018 | [Van Ness BRT](http://www.sfcta.org/delivering-transportation-projects/van-ness-avenue-bus-rapid-transit-home) | dedicated lanes improve speed and reliability |
 2018 | [CA HSR](http://www.hsr.ca.gov/) Initial Construction Segment | Merced to Bakersfield | [timeline](https://en.wikipedia.org/wiki/California_High-Speed_Rail#Completion_timeline)
 May 2018 | [eBART](https://www.bart.gov/about/projects/ecc) | 10 mile, 2 station extension to Antioch |
