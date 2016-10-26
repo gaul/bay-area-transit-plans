@@ -6,7 +6,7 @@ California.
 
 Date | Name | Description | References
 --- | --- | --- | ---
-Q3 2016 | [Warm Springs BART extension](https://www.bart.gov/about/projects/wsx) | 5.4 mile, 1 station extension | [updates](https://www.bart.gov/about/projects/wsx/updates)
+Q4 2016 | [Warm Springs BART extension](https://www.bart.gov/about/projects/wsx) | 5.4 mile, 1 station extension | [updates](https://www.bart.gov/about/projects/wsx#Schedule)
 Q4 2016 | [Caltrain CBOSS](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/CBOSS-PTC-Project.html) | positive train control improves safety | [Nov 2015 update](http://www.caltrain.com/Assets/__Agendas+and+Minutes/JPB/Board+of+Directors/Presentations/2015/2015-11-05+JPB+BOD+CBOSS+Presentation.pdf)
 late 2016 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [updates](http://main.sonomamarintrain.org/updates/)
 end of 2016 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
