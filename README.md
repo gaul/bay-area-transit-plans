@@ -7,10 +7,10 @@ California.
 Date | Name | Description | References
 --- | --- | --- | ---
 Q4 2016 | [Warm Springs BART extension](https://www.bart.gov/about/projects/wsx) | 5.4 mile, 1 station extension | [updates](https://www.bart.gov/about/projects/wsx#Schedule)
-late 2016 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [updates](http://main.sonomamarintrain.org/updates/)
 end of 2016 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
 early 2017 | [Alum Rock-Santa Clara BRT](http://www.vta.org/projects-and-programs/transit/alum-rock-santa-clara) | dedicated bus lanes improve speed and reliability |
 April 2017 | [Caltrain CBOSS](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/CBOSS-PTC-Project.html) | positive train control improves safety | [July 2016 update](http://www.caltrain.com/Assets/__Agendas+and+Minutes/JPB/Board+of+Directors/Presentations/2016/2016-07-07+CBOSS+Project+Status.pdf)
+late spring 2017 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [updates](http://main.sonomamarintrain.org/updates/)
 mid 2017 | first [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 Oct 2017 | [Transbay Terminal](http://transbaycenter.org/) | improved bus terminal and connectivity | [schedule](http://www.sfcta.org/delivering-transportation-projects/transbay-transit-center-and-caltrain-downtown-extension)
 winter 2017 | [AC Transit BRT](http://brt.actransit.org/) | dedicated lanes improve speed and reliability | [schedule](http://brt.actransit.org/construction/updates-and-upgrades/)
