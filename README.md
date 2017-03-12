@@ -7,12 +7,12 @@ California.
 Date | Name | Description | References
 --- | --- | --- | ---
 end of 2016 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
+25 March 2017 | [Warm Springs BART extension](https://www.bart.gov/about/projects/wsx) | 5.4 mile, 1 station extension | [updates](https://www.bart.gov/about/projects/wsx#Schedule)
 early 2017 | [Alum Rock-Santa Clara BRT](http://www.vta.org/projects-and-programs/transit/alum-rock-santa-clara) | dedicated bus lanes improve speed and reliability |
 late spring 2017 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [updates](http://main.sonomamarintrain.org/updates/)
 mid 2017 | first [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 Oct 2017 | [Transbay Terminal](http://transbaycenter.org/) | improved bus terminal and connectivity | [schedule](http://www.sfcta.org/delivering-transportation-projects/transbay-transit-center-and-caltrain-downtown-extension)
 winter 2017 | [AC Transit BRT](http://brt.actransit.org/) | dedicated lanes improve speed and reliability | [schedule](http://brt.actransit.org/construction/updates-and-upgrades/)
-winter 2017 | [Warm Springs BART extension](https://www.bart.gov/about/projects/wsx) | 5.4 mile, 1 station extension | [updates](https://www.bart.gov/about/projects/wsx#Schedule)
 2018 | [Milpitas and Berryessa BART extension](http://www.vta.org/bart/stations) | 10-mile, two station extension | [timeline](http://www.vta.org/bart/timeline)
 2018 | [Van Ness BRT](http://www.sfcta.org/delivering-transportation-projects/van-ness-avenue-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability |
 May 2018 | [eBART](https://www.bart.gov/about/projects/ecc) | 10 mile, 2 station extension to Antioch |
