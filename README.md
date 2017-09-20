@@ -20,8 +20,8 @@ May 2018 | [eBART](https://www.bart.gov/about/projects/ecc) | 10 mile, 2 station
 2018 | [SMART](http://sonomamarintrain.org/) Larkspur Ferry extension | connection to San Francisco | [article](http://www.marinij.com/article/NO/20160209/NEWS/160209772)
 Q4 2018 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) finish delivery | lighter, more reliable trains |
 2019 | [Central Subway](http://www.centralsubwaysf.com/content/project-overview) | extension of MUNI Metro into Chinatown | |
+2019 | [Geary BRT Phase 1](http://www.sfcta.org/delivering-transportation-projects/geary-corridor-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability | [phasing](http://www.sfcta.org/geary-corridor-bus-rapid-transit-about#pha)
 2020 | [Caltrain electrification](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html) | faster and more frequent service |
-end of 2020 | [Geary BRT](http://www.sfcta.org/delivering-transportation-projects/geary-corridor-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability |
 Fall 2021 | last [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 2021 | 191 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
 2021 | [Van Ness BRT](http://www.sfcta.org/delivering-transportation-projects/van-ness-avenue-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability |
