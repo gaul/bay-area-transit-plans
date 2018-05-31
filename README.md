@@ -13,10 +13,10 @@ Mar 2018 | [Transbay Terminal](http://transbaycenter.org/) | improved bus termin
 2018 | [Milpitas and Berryessa BART extension](http://www.vta.org/bart/stations) | 10-mile, two station extension | [timeline](http://www.vta.org/bart/timeline)
 2018 | [ACE to Modesto](http://www.acerail.com/About/Public-Projects/ACEforward) | 19 mile, 3 station extension | [booklet](http://www.acerail.com/About/Public-Projects/ACEforward/ACEforward_July2015-email-web.pdf)
 2018 | [Capitol Corridor to Salinas](http://www.tamcmonterey.org/wp-content/uploads/2015/09/Kick-Start-rail-extension-flyer10-13-14.pdf) | 68 mile, 7 station extension |
-2018 | [SMART](http://sonomamarintrain.org/) Larkspur Ferry extension | connection to San Francisco | [article](http://www.marinij.com/article/NO/20160209/NEWS/160209772)
 Q4 2018 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) finish delivery | lighter, more reliable trains |
 2019 | [Central Subway](http://www.centralsubwaysf.com/content/project-overview) | extension of MUNI Metro into Chinatown | |
 2019 | [Geary BRT Phase 1](http://www.sfcta.org/delivering-transportation-projects/geary-corridor-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability | [phasing](http://www.sfcta.org/geary-corridor-bus-rapid-transit-about#pha)
+end of 2019 | [SMART](http://sonomamarintrain.org/) Larkspur Ferry extension | connection to San Francisco | [construction updates](http://sonomamarintrain.org/construction-updates)
 Fall 2021 | last [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 2021 | 191 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
 2021 | [Van Ness BRT](http://www.sfcta.org/delivering-transportation-projects/van-ness-avenue-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability |
