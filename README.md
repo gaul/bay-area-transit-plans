@@ -20,7 +20,7 @@ Fall 2021 | last [BART fleet of the future](https://www.bart.gov/about/projects/
 2021 | 191 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
 2021 | [Van Ness BRT](http://www.sfcta.org/delivering-transportation-projects/van-ness-avenue-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability |
 2022 | [ACE to Merced](http://www.acerail.com/About/Public-Projects/ACEforward) | 39 mile, 3 station extension | [booklet](http://www.acerail.com/About/Public-Projects/ACEforward/ACEforward_July2015-email-web.pdf)
-2022 | [Caltrain electrification](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html) | faster and more frequent service |
+2022 | [Caltrain electrification](http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html) | faster and more frequent service | [timeline](http://calmod.org/#timeline)
 2025 | [CA HSR](http://www.hsr.ca.gov/) Initial Operating Segment | San Jose to Bakersfield | [timeline](https://en.wikipedia.org/wiki/California_High-Speed_Rail#Phase_1)
 2026 | [Livermore BART extension](https://www.bart.gov/about/projects/liv) | 4.8 mile, 1 station extension |
 2026 | [San Jose BART](http://www.vta.org/bart/stationsphaseII) | 16 mile, 3 station extension | [timeline](http://www.vta.org/bart/timeline)
