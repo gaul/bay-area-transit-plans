@@ -6,7 +6,6 @@ California.
 
 Date | Name | Description | References
 --- | --- | --- | ---
-end of 2016 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
 2018 | [ACE to Modesto](http://www.acerail.com/About/Public-Projects/ACEforward) | 19 mile, 3 station extension | [booklet](http://www.acerail.com/About/Public-Projects/ACEforward/ACEforward_July2015-email-web.pdf)
 Q4 2018 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) finish delivery | lighter, more reliable trains |
 2019 | [Central Subway](http://www.centralsubwaysf.com/content/project-overview) | extension of MUNI Metro into Chinatown | |
@@ -31,6 +30,7 @@ Fall 2021 | last [BART fleet of the future](https://www.bart.gov/about/projects/
 
 Date | Name | Description | References
 --- | --- | --- | ---
+Jan 2017 | first [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) | lighter, more reliable trains |
 25 March 2017 | [Warm Springs BART extension](https://www.bart.gov/about/projects/wsx) | 5.4 mile, 1 station extension | [updates](https://www.bart.gov/about/projects/wsx#Schedule)
 2 May 2017 | [Alum Rock-Santa Clara BRT](http://www.vta.org/projects-and-programs/transit/alum-rock-santa-clara) | dedicated bus lanes improve speed and reliability |
 25 August 2017 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [updates](http://main.sonomamarintrain.org/updates/)
