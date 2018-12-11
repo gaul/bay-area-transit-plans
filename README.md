@@ -7,7 +7,6 @@ California.
 Date | Name | Description | References
 --- | --- | --- | ---
 end of 2016 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
-Jan 2018 | first [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 2018 | [ACE to Modesto](http://www.acerail.com/About/Public-Projects/ACEforward) | 19 mile, 3 station extension | [booklet](http://www.acerail.com/About/Public-Projects/ACEforward/ACEforward_July2015-email-web.pdf)
 Q4 2018 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) finish delivery | lighter, more reliable trains |
 2019 | [Central Subway](http://www.centralsubwaysf.com/content/project-overview) | extension of MUNI Metro into Chinatown | |
@@ -37,3 +36,4 @@ Date | Name | Description | References
 25 August 2017 | [SMART](http://sonomamarintrain.org/) | Sonoma-Marin train | [updates](http://main.sonomamarintrain.org/updates/)
 25 May 2018 | [eBART](https://www.bart.gov/about/projects/ecc) | 10 mile, 2 station extension to Antioch |
 10 Aug 2018 | [Transbay Terminal](http://transbaycenter.org/) | improved bus terminal and connectivity | [schedule](http://www.sfcta.org/delivering-transportation-projects/transbay-transit-center-and-caltrain-downtown-extension)
+Jan 2018 | first [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
