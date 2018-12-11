@@ -7,7 +7,6 @@ California.
 Date | Name | Description | References
 --- | --- | --- | ---
 end of 2016 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
-winter 2017 | [AC Transit BRT](http://brt.actransit.org/) | dedicated lanes improve speed and reliability | [schedule](http://brt.actransit.org/construction/updates-and-upgrades/)
 Jan 2018 | first [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 2018 | [ACE to Modesto](http://www.acerail.com/About/Public-Projects/ACEforward) | 19 mile, 3 station extension | [booklet](http://www.acerail.com/About/Public-Projects/ACEforward/ACEforward_July2015-email-web.pdf)
 Q4 2018 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) finish delivery | lighter, more reliable trains |
@@ -15,6 +14,7 @@ Q4 2018 | 24 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportatio
 2019 | [Geary BRT Phase 1](http://www.sfcta.org/delivering-transportation-projects/geary-corridor-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability | [phasing](http://www.sfcta.org/geary-corridor-bus-rapid-transit-about#pha)
 2019 | [Milpitas and Berryessa BART extension](http://www.vta.org/bart/stations) | 10-mile, two station extension | [timeline](http://www.vta.org/bart/timeline)
 end of 2019 | [SMART](http://sonomamarintrain.org/) Larkspur Ferry extension | connection to San Francisco | [construction updates](http://sonomamarintrain.org/construction-updates)
+Dec 2019 | [AC Transit BRT](https://brt.actransit.org/) | dedicated lanes improve speed and reliability | [construction](https://brt.actransit.org/construction/)
 Fall 2021 | last [BART fleet of the future](https://www.bart.gov/about/projects/cars) | quieter trains with more doors | [delivery plan](https://www.bart.gov/about/projects/cars/delivery-plan)
 2021 | 191 [new MUNI Metro cars](http://www.sfcta.org/delivering-transportation-projects/sfmta-muni-modernization-projects#veh) begin delivery | lighter, more reliable trains |
 2021 | [Van Ness BRT](http://www.sfcta.org/delivering-transportation-projects/van-ness-avenue-bus-rapid-transit-home) | dedicated bus lanes improve speed and reliability |
